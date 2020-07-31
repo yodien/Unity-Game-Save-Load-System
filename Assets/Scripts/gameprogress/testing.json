@@ -1,0 +1,25 @@
+{
+	"name" : "myship",
+	"speed" : 5,
+	"shield" : 5,
+	"hp" : 30,
+	"level" : 2,
+	"exp" : 0,
+	"weaponCount" : 1,
+	"weaponList" : [
+	{"weaponName" : "w01", "damage" : 5}
+	],
+	"past_WPList" : [
+	{"waypoint" : 0}
+	],
+	"current_WP" : 1,
+	"consumables_count" : 2,
+	"consumables_List" : [
+	{"consumableName" : "c01", "hpplus" : 1},
+	{"consumableName" : "c02", "hpplus" : 2}
+	],
+	"balance" : 50,
+	"max_hp" : 200,
+	"damage" : 20,
+	"max_exp" : 150
+}
